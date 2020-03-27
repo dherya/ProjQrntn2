@@ -16,24 +16,25 @@
 			<attribute name="maven.pomderived" value="true"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry kind="lib" path="C:/Dev/jars/jstl-1.2.jar"/>
-	<classpathentry kind="lib" path="C:/Dev/jars/commons-logging-1.2.jar"/>
-	<classpathentry kind="lib" path="C:/Dev/jars/javax.servlet.jsp.jar"/>
-	<classpathentry kind="lib" path="C:/Dev/jars/javax.servlet-3.0.jar"/>
-	<classpathentry kind="lib" path="C:/Dev/jars/jstl.jar"/>
-	<classpathentry kind="lib" path="C:/Dev/jars/spring-aop-4.3.26.RELEASE.jar"/>
-	<classpathentry kind="lib" path="C:/Dev/jars/spring-beans-4.3.26.RELEASE.jar"/>
-	<classpathentry kind="lib" path="C:/Dev/jars/spring-context-4.3.26.RELEASE.jar"/>
-	<classpathentry kind="lib" path="C:/Dev/jars/spring-core-4.3.26.RELEASE.jar"/>
-	<classpathentry kind="lib" path="C:/Dev/jars/spring-expression-4.3.26.RELEASE.jar"/>
-	<classpathentry kind="lib" path="C:/Dev/jars/spring-web-4.3.26.RELEASE.jar"/>
-	<classpathentry kind="lib" path="C:/Dev/jars/spring-webmvc-4.3.26.RELEASE.jar"/>
-	<classpathentry kind="lib" path="C:/Dev/jars/spring-webmvc-portlet-4.3.26.RELEASE.jar"/>
 	<classpathentry kind="con" path="org.eclipse.m2e.MAVEN2_CLASSPATH_CONTAINER">
 		<attributes>
 			<attribute name="maven.pomderived" value="true"/>
 			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
 		</attributes>
 	</classpathentry>
+	<classpathentry kind="lib" path="C:/Codes/OnlineQuiz/WebContent/WEB-INF/lib/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Codes/OnlineQuiz/WebContent/WEB-INF/lib/javax.servlet.jsp.jar"/>
+	<classpathentry kind="lib" path="C:/Codes/OnlineQuiz/WebContent/WEB-INF/lib/javax.servlet-3.0.jar"/>
+	<classpathentry kind="lib" path="C:/Codes/OnlineQuiz/WebContent/WEB-INF/lib/jstl.jar"/>
+	<classpathentry kind="lib" path="C:/Codes/OnlineQuiz/WebContent/WEB-INF/lib/jstl-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Codes/OnlineQuiz/WebContent/WEB-INF/lib/spring-aop-4.3.26.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Codes/OnlineQuiz/WebContent/WEB-INF/lib/spring-beans-4.3.26.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Codes/OnlineQuiz/WebContent/WEB-INF/lib/spring-context-4.3.26.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Codes/OnlineQuiz/WebContent/WEB-INF/lib/spring-core-4.3.26.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Codes/OnlineQuiz/WebContent/WEB-INF/lib/spring-expression-4.3.26.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Codes/OnlineQuiz/WebContent/WEB-INF/lib/spring-web-3.0.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Codes/OnlineQuiz/WebContent/WEB-INF/lib/spring-web-4.3.26.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Codes/OnlineQuiz/WebContent/WEB-INF/lib/spring-webmvc-4.3.26.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Codes/OnlineQuiz/WebContent/WEB-INF/lib/spring-webmvc-portlet-4.3.26.RELEASE.jar"/>
 	<classpathentry kind="output" path="target/classes"/>
 </classpath>
